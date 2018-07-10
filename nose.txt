@@ -1,1 +1,2 @@
-probando las ramificacioes en git
+probando las ramificaciones en git
+
