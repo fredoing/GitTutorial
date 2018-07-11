@@ -7,3 +7,4 @@ nueva linea mas commit desde la rama
 ocasionando conflictos.
 cambios desde la rama 
 
+nuevo cambio desde rama 2
