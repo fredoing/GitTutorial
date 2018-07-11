@@ -4,5 +4,6 @@ nueva linea para probar la ramas
 
 nueva linea mas commit desde la rama
 
-conflicto para las ramas
+ocasionando conflictos.
+cambios desde la rama 
 
